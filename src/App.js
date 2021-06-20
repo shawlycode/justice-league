@@ -3,7 +3,6 @@ import Carousel from './Carousel';
 import AboutPizza from './AboutPizza';
 import PizzaStore from './PizzaStore';
 import Footer from './Footer';
-import './App.css';
 
 
 function App() {
